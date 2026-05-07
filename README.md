@@ -14,14 +14,17 @@ A simple Python application containerized using Docker as part of the Horizon Te
 * Docker image creation
 * Linux container execution
 
-▶️ Run the Project
+## ▶️ Run the Project
 
-
+```bash id="d6jlwm"
 docker build -t mypythonapp .
 docker run mypythonapp
-📷 Output
+```
+
+## 📷 Output
 
 Hello from Docker + Python!
 
-👩‍💻 Author
+## 👩‍💻 Author
+
 Sravani Kavali
